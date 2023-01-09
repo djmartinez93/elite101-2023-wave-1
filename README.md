@@ -1,2 +1,17 @@
-# elite101-2023-wave-1
-chatbot repo
+# Introduction
+
+
+This is a repository created by *David Martinez*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
