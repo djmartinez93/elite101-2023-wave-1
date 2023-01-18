@@ -9,10 +9,8 @@ This is a repository created by *David Martinez*
 
 Run this command to execute the application:
 
-in repl.it click on the shell tab then execute
-
 `python main.py`
 
- in the shell
+ in the shell tab of repl.it
 
 ```
