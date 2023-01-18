@@ -13,6 +13,6 @@ in repl.it click on the shell tab then execute
 
 `python main.py`
 
- 
+ in the shell
 
 ```
