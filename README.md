@@ -12,6 +12,8 @@ Run this command to execute the application:
 
 `python filename.py`
 
- in the shell
+ in the shell on the left tab in repl.it
+
+
 
 ```
