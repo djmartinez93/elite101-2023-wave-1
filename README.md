@@ -10,8 +10,8 @@ This is a repository created by *David Martinez*
 Run this command to execute the application:
 
 
-`python main.py`
+`python filename.py`
 
- 
+ in the shell
 
 ```
